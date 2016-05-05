@@ -1,3 +1,3 @@
 
 all:
-	g++ -o ../bin/openClDetect main.cpp -framework OpenCL
+	g++ -o openClDetect main.cpp -framework OpenCL
